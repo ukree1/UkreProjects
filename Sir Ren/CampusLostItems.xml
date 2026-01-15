@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<campusLostItems>
+    <campusLostItem>
+        <itemId>CLI001</itemId>
+        <itemDetails>
+            <itemName>Black Wallet</itemName>
+            <category>Personal Belongings</category>
+            <color>Black</color>
+        </itemDetails>
+        <foundLocation>
+            <building>Main Building</building>
+            <room>Room 203</room>
+            <dateFound>2025-01-05</dateFound>
+        </foundLocation>
+        <reporter>
+            <name>John Ramirez</name>
+            <role>Student</role>
+        </reporter>
+        <status>
+            <currentStatus>Stored</currentStatus>
+            <lastUpdated>2025-01-06</lastUpdated>
+        </status>
+    </campusLostItem>
+
+    <campusLostItem>
+        <itemId>CLI002</itemId>
+        <itemDetails>
+            <itemName>USB Flash Drive</itemName>
+            <category>Electronics</category>
+            <color>Silver</color>
+        </itemDetails>
+        <foundLocation>
+            <building>IT Building</building>
+            <room>Computer Lab 1</room>
+            <dateFound>2025-01-07</dateFound>
+        </foundLocation>
+        <reporter>
+            <name>Maria Santos</name>
+            <role>Faculty</role>
+        </reporter>
+        <status>
+            <currentStatus>Stored</currentStatus>
+            <lastUpdated>2025-01-07</lastUpdated>
+        </status>
+    </campusLostItem>
+
+    <campusLostItem>
+        <itemId>CLI003</itemId>
+        <itemDetails>
+            <itemName>Water Bottle</itemName>
+            <category>Personal Items</category>
+            <color>Blue</color>
+        </itemDetails>
+        <foundLocation>
+            <building>Gymnasium</building>
+            <room>Bleachers</room>
+            <dateFound>2025-01-08</dateFound>
+        </foundLocation>
+        <reporter>
+            <name>Kevin Lopez</name>
+            <role>Security</role>
+        </reporter>
+        <status>
+            <currentStatus>Claimed</currentStatus>
+            <lastUpdated>2025-01-09</lastUpdated>
+        </status>
+    </campusLostItem>
+
+    <campusLostItem>
+        <itemId>CLI004</itemId>
+        <itemDetails>
+            <itemName>Student ID</itemName>
+            <category>Identification</category>
+            <color>White</color>
+        </itemDetails>
+        <foundLocation>
+            <building>Library</building>
+            <room>Entrance</room>
+            <dateFound>2025-01-09</dateFound>
+        </foundLocation>
+        <reporter>
+            <name>Ana Cruz</name>
+            <role>Student</role>
+        </reporter>
+        <status>
+            <currentStatus>Stored</currentStatus>
+            <lastUpdated>2025-01-09</lastUpdated>
+        </status>
+    </campusLostItem>
+
+    <campusLostItem>
+        <itemId>CLI005</itemId>
+        <itemDetails>
+            <itemName>Calculator</itemName>
+            <category>School Supplies</category>
+            <color>Gray</color>
+        </itemDetails>
+        <foundLocation>
+            <building>Science Building</building>
+            <room>Room 105</room>
+            <dateFound>2025-01-10</dateFound>
+        </foundLocation>
+        <reporter>
+            <name>Mark Villanueva</name>
+            <role>Faculty</role>
+        </reporter>
+        <status>
+            <currentStatus>Stored</currentStatus>
+            <lastUpdated>2025-01-10</lastUpdated>
+        </status>
+    </campusLostItem>
+</campusLostItems>

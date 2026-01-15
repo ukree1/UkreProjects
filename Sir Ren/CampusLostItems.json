@@ -1,0 +1,109 @@
+{
+  "campusLostItems": [
+    {
+      "itemId": "CLI001",
+      "itemDetails": {
+        "itemName": "Black Wallet",
+        "category": "Personal Belongings",
+        "color": "Black"
+      },
+      "foundLocation": {
+        "building": "Main Building",
+        "room": "Room 203",
+        "dateFound": "2025-01-05"
+      },
+      "reporter": {
+        "name": "John Ramirez",
+        "role": "Student"
+      },
+      "status": {
+        "currentStatus": "Stored",
+        "lastUpdated": "2025-01-06"
+      }
+    },
+    {
+      "itemId": "CLI002",
+      "itemDetails": {
+        "itemName": "USB Flash Drive",
+        "category": "Electronics",
+        "color": "Silver"
+      },
+      "foundLocation": {
+        "building": "IT Building",
+        "room": "Computer Lab 1",
+        "dateFound": "2025-01-07"
+      },
+      "reporter": {
+        "name": "Maria Santos",
+        "role": "Faculty"
+      },
+      "status": {
+        "currentStatus": "Stored",
+        "lastUpdated": "2025-01-07"
+      }
+    },
+    {
+      "itemId": "CLI003",
+      "itemDetails": {
+        "itemName": "Water Bottle",
+        "category": "Personal Items",
+        "color": "Blue"
+      },
+      "foundLocation": {
+        "building": "Gymnasium",
+        "room": "Bleachers",
+        "dateFound": "2025-01-08"
+      },
+      "reporter": {
+        "name": "Kevin Lopez",
+        "role": "Security"
+      },
+      "status": {
+        "currentStatus": "Claimed",
+        "lastUpdated": "2025-01-09"
+      }
+    },
+    {
+      "itemId": "CLI004",
+      "itemDetails": {
+        "itemName": "Student ID",
+        "category": "Identification",
+        "color": "White"
+      },
+      "foundLocation": {
+        "building": "Library",
+        "room": "Entrance",
+        "dateFound": "2025-01-09"
+      },
+      "reporter": {
+        "name": "Ana Cruz",
+        "role": "Student"
+      },
+      "status": {
+        "currentStatus": "Stored",
+        "lastUpdated": "2025-01-09"
+      }
+    },
+    {
+      "itemId": "CLI005",
+      "itemDetails": {
+        "itemName": "Calculator",
+        "category": "School Supplies",
+        "color": "Gray"
+      },
+      "foundLocation": {
+        "building": "Science Building",
+        "room": "Room 105",
+        "dateFound": "2025-01-10"
+      },
+      "reporter": {
+        "name": "Mark Villanueva",
+        "role": "Faculty"
+      },
+      "status": {
+        "currentStatus": "Stored",
+        "lastUpdated": "2025-01-10"
+      }
+    }
+  ]
+}
